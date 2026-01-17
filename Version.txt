@@ -1,2 +1,2 @@
-1.0.0
-https://example.com/MBA_Tools_Setup.exe
+1.1.0
+https://DEIN-DOWNLOAD-LINK/MBA_Tools_Setup.exe
